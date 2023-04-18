@@ -1,4 +1,4 @@
-var nombre = prompt("Por favor, ingrese su nombre:");
+var nombre = prompt("Por favor, pon tu nombre aquí:");
 
 nombre = nombre.toLowerCase().replace(/\s+/g, '');
 
